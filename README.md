@@ -1,4 +1,4 @@
-# k8s-jjtech
+# kubernetes-clusters-setup
 
 ## Deploy EKS CLuster with Fargate using Terraform
 
